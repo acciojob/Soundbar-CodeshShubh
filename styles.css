@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+:root{
+	background-color:#a164df;
+}
+
+.button_container{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	width:100vw;
+	height: 100vh;
+	gap:20px;
+}
+
+.btn {
+	border:none;
+	background-color: #663399;
+	max-width: 70px;
+	min-height: 40px;
+	border-radius: 2px;
+}
+.stop{
+	border:none;
+	background-color: #663399;
+	
+	max-width: 70px;
+	min-height: 40px;
+	border-radius: 2px;
+}
